@@ -6,7 +6,7 @@ O BlackPhisher é uma pequena ferramenta baseada do maskphish mas com melhorias 
 
 ```bash
 
-git clone https://github.com/jaykali/maskphish
+git clone https://github.com/BlackHydra40/BlackPhisher
 
 cd BlackPhisher
 
